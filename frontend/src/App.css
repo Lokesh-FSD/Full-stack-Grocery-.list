@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: #88b1ff;
+}
+
+.grocery-item{
+  border: 0.4px solid grey;
+  padding: 2px;
+  border-radius: 2px;
+  margin:3px;
+  box-shadow: 1px 1px; 
+  background-color: white;
+  
+}
+
+.purchased{
+  text-decoration: line-through;
+}
+
+.grocery-actions{
+  margin-left: auto;
+}
+.container{
+  margin-top: 30px;
+  border: 1px solid gray;
+  background-color: rgb(243, 241, 241);
+  border-radius: 6px;
+  padding: 15px;
+  box-shadow: 3px 3px 9px;
+  width: 450px;
+
+}
+
+.btn{
+  padding: 3px;
+}
+
+.btn-2{
+  color: rgb(228, 43, 10);
+  background-color: rgb(232, 235, 241);
+  border-radius: 5px;
+}
+
+.heading{
+  margin-top: 60px;
+}
